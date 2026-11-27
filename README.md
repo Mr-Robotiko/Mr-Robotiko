@@ -87,16 +87,6 @@ I work in **offensive security**. I find vulnerabilities before attackers do, an
 
 ---
 
-## 🤝 Let's Connect
-
-Always happy to exchange ideas:
-
-- 🔐 **Security folks?** Let's talk about pentesting methodology, AD attacks, CTFs or tooling.
-- 🤖 **Into AI?** I'm interested in LLM agents for offensive and defensive security, local models and detection engineering.
-- 💻 **Developer?** Happy to discuss secure-by-design architecture or how your app would hold up in a pentest.
-
-Feel free to open an issue on any of my repositories.
-
 > [!WARNING]
 > All offensive tooling and content in my repositories is intended for **authorized testing and education only**. Never use it against systems you don't have explicit permission to test.
 
