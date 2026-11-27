@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Raffi (Mr-Robotiko)
 
-### Penetration Tester — breaking systems to make them safer, and building the tools to do it
+### Hacker by heart - "breaking systems to make them safer"
 
 <!-- Add your contact badges here (they appear centered under the title), e.g.:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raffi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
@@ -22,8 +22,8 @@
 I work in **offensive security**. I find vulnerabilities before attackers do, and I like building my own tooling along the way.
 
 - 🔓 **Penetration Testing**: web applications, networks and Active Directory, from recon to reporting
-- 🤖 **AI in Security**: researching the AI arms race across offensive, defensive and regulatory perspectives, including autonomous Red vs. Blue agents in an isolated lab
-- 🛠️ **Security Tooling**: building toolkits and references that make security work faster and more accessible, with local LLMs so data stays on the machine
+- 🤖 **AI in Security**: researching the AI arms race across offensive, defensive and regulatory perspectives.
+- 🛠️ **Security Tooling**: building toolkits and references that make security work faster and more accessible
 
 > [!NOTE]
 > **Currently working on:** an isolated Red vs. Blue lab where LLM agents attack and defend, measuring detection rate, false positives and time-to-detect.
