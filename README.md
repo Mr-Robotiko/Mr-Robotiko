@@ -10,7 +10,6 @@
 [![Email](https://img.shields.io/badge/Email-you%40example.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:you@example.com)
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/YOUR-ID)
 -->
-![Location](https://img.shields.io/badge/Based%20in-Germany-000000?style=flat-square)
 ![Profile views](https://komarev.com/ghpvc/?username=Mr-Robotiko&style=flat-square&color=00C853)
 
 </div>
