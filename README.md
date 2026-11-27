@@ -24,21 +24,6 @@ I work in **offensive security**. I find vulnerabilities before attackers do, an
 - 🤖 **AI in Security**: researching the AI arms race across offensive, defensive and regulatory perspectives.
 - 🛠️ **Security Tooling**: building toolkits and references that make security work faster and more accessible
 
-> [!NOTE]
-> **Currently working on:** an isolated Red vs. Blue lab where LLM agents attack and defend, measuring detection rate, false positives and time-to-detect.
-
-```mermaid
-flowchart LR
-    LLM["🧠 Local LLM<br/>(Ollama)"]
-    subgraph LAB ["🧪 Isolated Docker Lab"]
-        direction LR
-        RED["🔴 Red Team Agents<br/>Recon · Exploit"] -->|attacks| TARGET["🎯 Target Systems"]
-        TARGET -->|logs & telemetry| BLUE["🔵 Blue Team Agents<br/>Detection · Triage"]
-    end
-    LLM <-.-> RED
-    LLM <-.-> BLUE
-```
-
 ---
 
 ## 📌 Selected Repositories
