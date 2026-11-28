@@ -31,7 +31,7 @@ I work in **offensive security**. I find vulnerabilities before attackers do, an
 | Repository | Description |
 | ---------- | ----------- |
 | [**Gilfi**](https://github.com/Mr-Robotiko/Gilfi) | Security & network analysis toolkit (PyQt6 + Flask) with port scanner, hash cracking, password analysis and a local AI assistant via Ollama |
-| [**Pentest-Cheatsheet**](https://github.com/Mr-Robotiko/Pentest-Cheatsheet) | Command-ready pentest reference with live variables: set target IP & creds once, and every command fills itself in · [Live site](https://mr-robotiko.github.io/Pentest-Cheatsheet/](https://mr-robotiko.github.io/Pentest-Cheatsheet/) |
+| [**Pentest-Cheatsheet**](https://github.com/Mr-Robotiko/Pentest-Cheatsheet) | Command-ready pentest reference with live variables: set target IP & creds once, and every command fills itself in · [Live site](https://mr-robotiko.github.io/Pentest-Cheatsheet/) |
 
 <details>
 <summary><b>📂 More projects</b></summary>
